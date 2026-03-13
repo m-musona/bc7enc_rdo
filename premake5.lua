@@ -1,4 +1,4 @@
-project "bc7enc"
+project "bc7enc_rdo"
     kind "StaticLib"
     language "C++"
     cppdialect "C++17"
