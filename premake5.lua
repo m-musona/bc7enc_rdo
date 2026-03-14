@@ -1,4 +1,4 @@
-project "bc7enc"
+project "bc7enc_rdo"
     kind "StaticLib"
     language "C++"
     cppdialect "C++17"
@@ -11,7 +11,6 @@ project "bc7enc"
         "bc7enc.cpp",
         "bc7decomp.cpp",
         "rgbcx.cpp",
-        "bc6h_enc.cpp",
         "ert.cpp",
     }
 
